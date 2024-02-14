@@ -20,4 +20,4 @@ if __name__ == '__main__':
         speak(a['description'])
         speak("Moving on to next news.")
 
-    speak("thanks for listeing. Make sure to come tomorrow for latest updates.")
+    speak("thanks for listening. Make sure to come tomorrow for latest updates.")
