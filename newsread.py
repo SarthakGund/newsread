@@ -18,6 +18,6 @@ if __name__ == '__main__':
     for a in na:
         speak(a['title'])
         speak(a['description'])
-        speak("Moving on to news.")
+        speak("Moving on to next news.")
 
     speak("thanks for listeing. Make sure to come tomorrow for latest updates.")
